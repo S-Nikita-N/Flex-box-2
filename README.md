@@ -1,4 +1,5 @@
 [SwedishBitter.psd.zip](https://github.com/S-Nikita-N/Flex-box-2/files/6874620/SwedishBitter.psd.zip) - ссылка на макет(psd) для сравнения с версткой
+https://s-nikita-n.github.io/Flex-box-2/ - ссылка на github pages
 1) Сайт - односраничный Lending про какой-то бальзам  
 2) Страница чисто на html и css, поэтому никакого интерактива тут не предусматривалось (за исключением ховеров на кнопках и карточках в разделе "Состав")  
 3) Сайт был сделан для отработки технлогии flex-box  
