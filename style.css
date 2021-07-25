@@ -43,7 +43,8 @@ body {
 .container {
   box-sizing: border-box;
   width: 1200px;
-  padding: 0 15px;
+  padding-left:15px !important;
+  padding-right:15px !important;
   margin: 0 auto;
 }
 
